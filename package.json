@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/geekyguy18/cordova-plugin-admob-mediation-mobfox.git"
+    "url": "git+https://github.com/itsyub/cordova-plugin-admob-mediation-mobfox.git"
   },
   "keywords": [
     "ecosystem:cordova",
@@ -19,7 +19,7 @@
   "author": "geekyguy18",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/geekyguy18/cordova-plugin-admob-mediation-mobfox/issues"
+    "url": "https://github.com/itsyub/cordova-plugin-admob-mediation-mobfox/issues"
   },
-  "homepage": "https://github.com/geekyguy18/cordova-plugin-admob-mediation-mobfox#readme"
+  "homepage": "https://github.com/itsyub/cordova-plugin-admob-mediation-mobfox#readme"
 }
